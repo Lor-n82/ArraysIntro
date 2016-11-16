@@ -40,4 +40,7 @@ public static Scanner tc=new Scanner(System.in);
         media= nota/10;
         System.out.println("La nota media es: "+media);  
     }
+    public static void Imprimir(){
+        
+    }
 }
